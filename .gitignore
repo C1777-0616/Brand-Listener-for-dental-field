@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+data/entries_store.json
+data/latest_result.json
+data/exports/
+logs/
+*.log
+.env
+__pycache__/
+.git/
